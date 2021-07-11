@@ -19,5 +19,7 @@ FIRESTORE,
 REACT NAVIGATION ETC.
 
 #Github Link: https://lnkd.in/gAjY5AC
-#Expo Live Link: https://lnkd.in/gXakdxu
-#(Install Expo In Your Smartphone To Use This Application)
+
+Expo Live Link: https://lnkd.in/gXakdxu
+
+(Install Expo In Your Smartphone To Use This Application)
