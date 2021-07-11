@@ -75,7 +75,7 @@ const Feed = (props) => {
                                     <MaterialCommunityIcons style={styles.icon} name="heart-outline" color={iconColor} size={30} />
                                 </TouchableOpacity>
                                 <TouchableOpacity
-                                    onPress={handleLike}
+                                    
                                 >
                                     <MaterialCommunityIcons style={styles.icon} name="comment-outline" color={"#868686"} size={30} />
                                 </TouchableOpacity>
