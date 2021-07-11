@@ -1,4 +1,4 @@
-# deshgram A Photo sharing social media app inspired by instagram.
+# DESHGRAM - A Photo sharing social media app inspired by instagram.
 
 #DETAILS
 1. Its an photo sharing app like instagram
