@@ -8,4 +8,10 @@
 5. In the home feed user will see the latest pictures posted by the people he used to follow.
 
 #TECHNOLOGIES
-REACT-NATIVE, REDUX, REACT-REDUX, REDUX-THUNK, FIREBASE, FIRESTORE, REACT NAVIGATION ETC.
+
+REACT-NATIVE,
+REDUX, 
+REACT-REDUX, 
+REDUX-THUNK, 
+FIREBASE, FIRESTORE, 
+REACT NAVIGATION ETC.
